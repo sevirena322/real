@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(192, 90, 162);
+}
+
+.RR {
+  margin-bottom: 8px;
+  font-size: 2em;
+}
+
+.RRR {
+  font-size: 30px;
+}
+
+.XX {
+  margin-left: 27px;
+}
+
+.XXX {
+  margin-left: 28px;
+}
+
+.XXXX {
+  margin-top: 5px;
+}
+
+.X5 {
+  margin-left: 27px;
+  margin-top: 5px;
+}
+
+.X6 {
+  margin-left: 27px;
+}
+
+@viewport {
+  width: 1024px;
+}
